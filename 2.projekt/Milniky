@@ -1,0 +1,46 @@
+#BRIEF 			Tento subor služi na prehľad milnikov vyvoja druheho projektu z IPK
+#AUTHOR 		Maroš Orsák
+#LOGIN			xorsak02
+
+
+
+1.Navrch								-----> done
+	
+	a) spravit potrebnu dokumentaciu  --> done (chyba popisat navrch)	
+	b) zozbierat informacie			  --> done
+	c) vytvorit strukturu 			  --> done
+	d) vytvorit Navrch aplikacie	  --> done
+2.Implementacia						    ----->
+	
+	a) Spracovanie Argumentov 		  --> done
+	b) Navratove hodnoty Err  		  --> done 
+	c) Vytvorenie OOP tried (func.)   --> done
+	    i) main.cpp             ->	done
+	    j) err.cpp/.h           -> 	done
+	    k) parseArgs.cpp/.h     ->	done
+	    l) dnsClient.cpp/.h     ->	done
+	    m) dnsHeader.h     		->	done
+	    n) querry.h        		->  done
+	    o) rData.h         		->  done
+	    p) responseRecord.cpp/.h->  done
+
+	d) funcktionalita argumentov      --> done(expect -i arg)
+		i) -h  			-> done
+		j) -s  			-> done
+		k) -T 			-> done
+		l) -t 			-> done
+			x) A    -> done
+			y) NS   -> done
+			z) CNAME-> done
+			v) PTR  -> not done
+			w) AAAA -> not done
+		m) -i 			-> not done
+		n) name 		-> done
+
+3.Testovanie
+	a) otestovanie časti 			-->	done
+	b) otestovanie celku			-->	done
+
+
+
+

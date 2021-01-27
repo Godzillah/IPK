@@ -1,0 +1,40 @@
+#AUTHOR : MAROS ORSAK (xorsak02)
+#BRIEF  : tento subor sluzi na ukazanie vsetkych zdrojov z ktorych som cerpal je mozne ze som na niektore zabudol , kedze som tento dokument zacal pisat tak v polovici mojej implementacie
+
+#COPYRIGHT:
+	
+	Predovšektým som čerpal z prezentácií , kde si myslím že vytvranie,bind,connect,recv,send su si myslim vsetko podobne veci...a vsetci studenti to budu mat v podstate zhodne.
+
+	Ostatne zdroje som zapisal ako mozete vidiet pod tieto riadky.
+
+
+	#ODPORUCANA-LITERATURA:
+		
+		O. Ryšavý, J. Ráb, IPK - BSD schránky - 3. přednáška
+		K. Sollins, The TFTP Protocol (revision 2), https://tools.ietf.org/html/rfc1350
+		J. Postel, J. Reynolds, FILE TRANSFER PROTOCOL (FTP),https://tools.ietf.org/html/rfc959
+		P. Grygárek, Softwarová rozhraní systémů UNIX pro přístup k síťovým službám, http://www.cs.vsb.cz/grygarek/LAN/sockets.html
+		Understanding /etc/passwd, Online: https://www.cyberciti.biz/faq/understanding-etcpasswd-file-format/
+
+	#LINKS_TO_WEBSTITES:
+
+		https://stackoverflow.com/questions/16285623/pwd-to-get-path-to-the-current-file -> -f argument
+		http://shoe.bocks.com/net/#gethostbyname
+		https://stackoverflow.com/questions/2910377/get-home-directory-in-linux-c
+		https://stackoverflow.com/questions/4770985/how-to-check-if-a-string-starts-with-another-string-in-c
+		https://www.programminglogic.com/example-of-client-server-program-in-c-using-sockets-and-tcp/
+		https://www.thegeekstuff.com/2011/12/c-socket-programming/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%253A+TheGeekStuff+%2528The+Geek+Stuff%2529
+		https://www.binarytides.com/hostname-to-ip-address-c-sockets-linux/
+
+	#YOUTUBE-TUTORIALS:
+		
+		https://www.youtube.com/watch?v=V6CohFrRNTo&t=493s
+		https://www.youtube.com/watch?v=hptViBE23fI&t=1141s
+		https://www.youtube.com/watch?v=oP-n5tLUPVQ&t=1s
+
+
+
+
+
+		
+	

@@ -1,0 +1,29 @@
+1.Navrch								----->
+	
+	a) spravit potrebnu dokumentaciu  --> done (chyba popisat navrch)	
+	b) zozbierat informacie			  --> done
+	c) vytvorit strukturu 			  --> 
+	d) vytvorit Navrch aplikacie	  -->
+2.Implementacia						    ----->
+	
+	a) Spracovanie Argumentov 		  --> done (sem to treba este troska otestovat ale basic funguje) 
+	b) Navratove hodnoty Err  		  --> done (vytvorena trieda)
+	c) Vytvorenie OOP tried (func.)   -->
+	    i) main.cpp             ->
+	    j) err.cpp/.h           ->
+	    k) parseArgs.cpp/.h     ->
+	    l) dnsHeaderClient.cpp/.h     ->
+	    m) dnsHeaderHeader.cpp/.h     ->
+	    n) querry.cpp/.h        ->
+	    o) rData.cpp/.h         ->
+	    p) responseRecord.cpp/.h->
+
+	d) funcktionalita argumentov      -->
+		i) -h  			-> done
+		j) -s  			->
+		k) -T 			->
+		l) -t 			->
+		m) -i 			->
+		n) name 		->
+	e)
+

@@ -1,0 +1,32 @@
+.\" Process this file with
+.\" groff -man -Tascii foo.1
+.\"
+.TH IPK 2.Projekt "23.4 2017" Linux "Uzivatelska prirucka"
+.SH NAZOV
+trace - Program sluzi k analyze pocitacovej siete. Vypisuje uzly (resp. smerovace) na ceste od zdroja az k zadanemu cielu.
+.SH POUZITIE
+.B trace [-f 
+.I first_ttl
+.B ] [-m 
+.I max_ttl
+.B ] [-p
+.I port 
+.B ] ip-address
+.SH POPIS
+.br
+.B trace
+umoznuje zobrazit prechod paketu sietou od zdroja až ku cielu. Program posiela 3 pakety a zobrazuje IP adresu a hostname smerovaca a cas odozvi v milisekundach. Ak sa paket cestou stratil, alebo smerovac ignoruje UDP pakety na danom porte, program vypise znak *, pripadne inym symbolom (H!, N!, P!, X!). K objaveniu jednotlivych smerovacov, cez ktere paket prechadza, využiva pole TTL/Hop limit protokolu IPv4/IPv6 a zprávy ICMP. Zobrazuje IPv4/IPv6 adresu smerovaca, hostname a dobu odozvy. Pre zaslanie testovacej spravy s rozne nastavenym TTL/HL vyuziva protokol UDP.
+.SH MOZNOSTI
+.IP -f
+urcuje pociatocne TTL. Implicitne 1.
+.IP -m
+urcuje maximalne TTL. Implicitne 30.
+.IP -p
+cislo portu, kde sa posielaju pakety. Implicitne 33434.
+.IP ip-address
+IPv4/IPv6 alebo hostname ciela
+.SH BUGS
+.br
+UDP sockety sa mozu cestou stratit.
+.SH AUTOR
+Matus Mucka - xmucka03

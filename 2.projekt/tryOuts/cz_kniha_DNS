@@ -1,0 +1,68 @@
+# BRIEF	:	Description concrete sections in book briefly...
+# AUTHOR:	Maros Orsak (xorsak02)
+# DATE 	:	3.4 2018 - 12:32
+# NAME	: 	Velký pruvodce protokoly TCP/IP a systémem DNS
+
+Kapitola 11 - DNS
+
+	1.Syntaxe jmena
+
+		Celé meno može mať maximálne 255 znakov , retazec potom 63 znakov.
+		Retazec sa sklada z pismen , cislic a pomlcky.
+		Pomlcka nemoze byt na zaciatku alebo na konci retazca.
+		V DNS databaze sa nerozlisuju velke,male pismena cize meno newyork.com bude ulozene v databaze DNS ulozene ako NewYork.com aelbo NEWYORK.com a pod.(je jedno ci uzivatel pri preklade zada male alebo velke pismena...)
+
+	2.Reverzne domeny
+
+		Preklad IP - adresy na domenove jmeno.Tento preklad sa casto nazyva zpetnym(reverznym) prekladom.
+		Podobne ako domény tvoria i IP - adresy stromovú štruktúru ...(str.248)
+		Domeny tvorene IP - adresami sa casto nazývajú reverzními doménami
+		Pro účely reverzního prekladu byla definovaná pseudodoména "in-addr.arpa" pre verzie IPverze6 "IP6.arpa"
+
+
+	3.Dotazy
+
+		DNS použivá pre transport svojích dotazov/odpovedi jak protokol UDP, tak i protocol TCP. 
+		Pre obe protokoly používají port 53.
+		Bežné dotazy, ako je preklad jmena na IP - adresu a naopak, sa provadeju protokolem UDP.
+		Delka prenasenych dat protokolem UDP je implicitne omezena na 512B(priznakom truncation moze byt signalizovane, ze sa odpoved nevosla do 512B..)
+		Delka UDP paketu je omezena na 512B, protoze u vetsich IP-datagrammu by mohlo dojit k fragmentaci.
+
+		V internete plati pravidlo, ze databaze s daty s nutnymi pre preklad su vzdy ulozene aspon na dvou nezavislych pocitacich.
+		Je-li jeden nedostupny, pak se preklad muze provest na druhem pocitaci.
+
+	4.Resolver
+		
+		***********************
+		Tieto veci uz viem....
+		***********************
+
+	5.Jmenných server (name server)
+
+		Jmennz server je program, ktory prevadza preklad na ziadost resolveru alebo ineho jmenneho serveru.
+		napr. v Unixe je jmenny server realizovan programom named.
+		Pre oznaceni tohoto jmenneho serveru sa pouziva i meno BIND(Berkeley Internet Name Domain). 
+
+
+
+Kapitola 12 - Protokol DNS
+
+
+	1.Vety RR
+
+		Vsetky vety RR maju v protokole DNS stejnou strukturu. 
+		Struktura RR vety je znazornena na obr. 12.1(264)
+		Jednotlive pole vet RR obsahuju:
+			NAME 	- Doménové meno
+			TYPE 	- Typ vety
+			CLASS 	- Trieda vety
+			TTL 	- Time to live. 32-bitove cislo udavajuce dobu, po kterou muze byt tento RR udrzovan v cache serveru ako platny. Po vyprsenia tejto doby musi byt veta pozadovana za neplatnu. 				  Hodnota 0 zabranuje neautoritativnim serverum ulozit RR vetu do cache.
+			RDLENGTH- 16-bitove cislo specifikujuce delku pola RDATA
+			RDATA	- Vlastne data ve tvaru retazca premennej delky.Format tohoto pola zavisi na typu a triede RR.
+
+
+
+
+
+Zaujimavosti
+	a) Resolver bez paměti Cache nazývame pahýlovým resolverem

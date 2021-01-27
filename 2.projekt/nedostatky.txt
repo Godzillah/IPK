@@ -1,0 +1,12 @@
+#BRIEF 			Tento subor služi na prehľad na nedostatkov s ktorymi som sa stretol
+#AUTHOR 		Maroš Orsák
+#LOGIN			xorsak02
+
+
+PARSOVANIE ARGUMENTOV:
+	1.Argument je fixny vzdy na konci pred name cize napr : ./ipk-lookup -s server -t AAAA -i name (nepodporuje napr : ./ipk-lookup -s server -i -t AAAA name.. )
+
+FUNCNOST :
+	1.Argument -i (program nepodporuje iterativnu rezoluci)
+	2.Argument -t AAAA , -t PTR 
+

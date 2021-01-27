@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="df692677-e22b-4b4e-b353-56088e552e2f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/version_1.0/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/version_1.0/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/version_1.0/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/version_1.0/.idea/version_1.0.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/version_1.0/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/version_1.0/Copyright" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/version_1.0/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/version_1.0/Milniky" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/version_1.0/client_server.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/version_1.0/ipk-client" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/version_1.0/ipk-client.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/version_1.0/ipk-server" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/version_1.0/ipk-server.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/version_1.0/readme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.projekt/C++/version_1.2/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.projekt/C++/version_1.2/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.projekt/C++/version_1.2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.projekt/C++/version_1.2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.projekt/C++/version_1.2/.idea/version_1.2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.projekt/C++/version_1.2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.projekt/C++/version_1.2/Copyright" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.projekt/C++/version_1.2/Dokumentacia/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.projekt/C++/version_1.2/Dokumentacia/implementacia" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.projekt/C++/version_1.2/Dokumentacia/vystrzky" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.projekt/C++/version_1.2/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.projekt/C++/version_1.2/Milniky" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.projekt/C++/version_1.2/dnsClient.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.projekt/C++/version_1.2/dnsClient.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.projekt/C++/version_1.2/dnsHeader.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.projekt/C++/version_1.2/dnsHeader.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.projekt/C++/version_1.2/err.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.projekt/C++/version_1.2/err.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.projekt/C++/version_1.2/ipk-lookup" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.projekt/C++/version_1.2/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.projekt/C++/version_1.2/parseArgs.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.projekt/C++/version_1.2/parseArgs.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.projekt/C++/version_1.2/querry.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.projekt/C++/version_1.2/querry.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.projekt/C++/version_1.2/rData.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.projekt/C++/version_1.2/rData.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.projekt/C++/version_1.2/responseRecord.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.projekt/C++/version_1.2/responseRecord.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.projekt/C/version_1 (copy).2/dnsClient.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.projekt/C/version_1 (copy).2/dnsClient.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.projekt/C/version_1 (copy).2/dnsHeader.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.projekt/C/version_1 (copy).2/question.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.projekt/C/version_1 (copy).2/rData.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.projekt/C/version_1 (copy).2/responseRecord.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.projekt/cz_kniha_DNS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.projekt/odovzdavacka/version/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.projekt/odovzdavacka/version/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.projekt/odovzdavacka/version/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.projekt/odovzdavacka/version/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.projekt/odovzdavacka/version/.idea/version_1.2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.projekt/odovzdavacka/version/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.projekt/odovzdavacka/version/Copyright" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.projekt/odovzdavacka/version/Dokumentacia/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.projekt/odovzdavacka/version/Dokumentacia/implementacia" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.projekt/odovzdavacka/version/Dokumentacia/vystrzky" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.projekt/odovzdavacka/version/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.projekt/odovzdavacka/version/Milniky" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.projekt/odovzdavacka/version/dnsClient.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.projekt/odovzdavacka/version/dnsClient.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.projekt/odovzdavacka/version/dnsHeader.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.projekt/odovzdavacka/version/dokumentácia.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.projekt/odovzdavacka/version/err.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.projekt/odovzdavacka/version/err.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.projekt/odovzdavacka/version/ipk-lookup" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.projekt/odovzdavacka/version/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.projekt/odovzdavacka/version/parseArgs.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.projekt/odovzdavacka/version/parseArgs.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.projekt/odovzdavacka/version/question.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.projekt/odovzdavacka/version/rData.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.projekt/odovzdavacka/version/readme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.projekt/odovzdavacka/version/responseRecord.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../IPP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../IPP/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/nedostatky.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/readme.md" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="67" />
+    <option name="y" value="25" />
+    <option name="width" value="1853" />
+    <option name="height" value="1055" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="1.projekt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1.projekt" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../2.projekt" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df692677-e22b-4b4e-b353-56088e552e2f" name="Default Changelist" comment="" />
+      <created>1557648556588</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557648556588</updated>
+      <workItem from="1557648557705" duration="698000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="698000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11898174" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="238">
+            <caret line="14" column="58" selection-start-line="14" selection-start-column="58" selection-end-line="14" selection-end-column="58" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nedostatky.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>
