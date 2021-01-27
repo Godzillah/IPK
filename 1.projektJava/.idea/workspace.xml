@@ -1,0 +1,616 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e4af0bd7-3470-4c96-9b79-7a05baa6302f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.Server.java.swp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ODOVZDAVACKA/CalculatorOfCPU.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ODOVZDAVACKA/Endpoint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ODOVZDAVACKA/ErrorTypes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ODOVZDAVACKA/Help.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ODOVZDAVACKA/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ODOVZDAVACKA/MyLogger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ODOVZDAVACKA/ParseArgs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ODOVZDAVACKA/Server.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ODOVZDAVACKA/copyright" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ODOVZDAVACKA/ipkDokumentaciaProj1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ODOVZDAVACKA/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/center_bg.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/footer_bg.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/footer_list_bullet.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu_bullet.gif" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/.idea/httpRequests/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="package.json" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>out</find>
+      <find>fileData</find>
+      <find>File</find>
+      <find>ErrorTypes</find>
+      <find>System</find>
+      <find>menuOptions</find>
+      <find>menuBulletsDivs</find>
+      <find>lectu</find>
+      <find>pre</find>
+      <find>Pre</find>
+      <find>table</find>
+      <find>th</find>
+      <find>exerciseName</find>
+      <find>row</find>
+      <find>exerciseHeaders</find>
+      <find>exerciseParagraph</find>
+      <find>500</find>
+      <find>columnForHtml</find>
+      <find>columnForLectures</find>
+      <find>columnForLeftImages</find>
+      <find>imageMenu</find>
+      <find>.row</find>
+      <find>columnForContacts</find>
+      <find>contactsAndRelatedSubjects</find>
+      <find>columnForRelatedSubjects</find>
+      <find>400</find>
+      <find>overviewResults</find>
+      <find>contactsAndRelatedSubjectsSection</find>
+      <find>lecturesAndExercises</find>
+      <find>clientSocket</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>400</replace>
+      <replace>500</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/makefile2" />
+        <option value="$PROJECT_DIR$/src/Makefile" />
+        <option value="$PROJECT_DIR$/src/Http.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/index.html" />
+        <option value="$PROJECT_DIR$/src/HttpHeader.java" />
+        <option value="$PROJECT_DIR$/src/myHttpClientHeader" />
+        <option value="$PROJECT_DIR$/src/HttpClientHeader.java" />
+        <option value="$PROJECT_DIR$/hostName.txt" />
+        <option value="$PROJECT_DIR$/src/Logger.java" />
+        <option value="$PROJECT_DIR$/src/package.json" />
+        <option value="$PROJECT_DIR$/src/loadMethodWithParameter.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/loadMethodWithParameter.html" />
+        <option value="&lt;c26d242e-9c41-43df-ad4a-1e3fa157e125&gt;/WWW/School/6.semester/IPK/1.projektJava/src/Server.java" />
+        <option value="$PROJECT_DIR$/src/copyright" />
+        <option value="$PROJECT_DIR$/src/readme" />
+        <option value="$PROJECT_DIR$/src/ParseArgs.java" />
+        <option value="$PROJECT_DIR$/src/Help.java" />
+        <option value="$PROJECT_DIR$/src/MyLogger.java" />
+        <option value="$PROJECT_DIR$/src/ErrorTypes.java" />
+        <option value="$PROJECT_DIR$/output.txt" />
+        <option value="$PROJECT_DIR$/src/CalculatorOfCPU.java" />
+        <option value="$PROJECT_DIR$/src/Endpoint.java" />
+        <option value="$PROJECT_DIR$/ParseArgs.java" />
+        <option value="$PROJECT_DIR$/Endpoint.java" />
+        <option value="&lt;c26d242e-9c41-43df-ad4a-1e3fa157e125&gt;/WWW/School/6.semester/IPK/1.projektJava/Endpoint.java" />
+        <option value="&lt;c26d242e-9c41-43df-ad4a-1e3fa157e125&gt;/WWW/School/6.semester/IPK/1.projektJava/Server.java" />
+        <option value="&lt;c26d242e-9c41-43df-ad4a-1e3fa157e125&gt;/WWW/ITW/predmet.html" />
+        <option value="$PROJECT_DIR$/Server.java" />
+        <option value="$PROJECT_DIR$/Makefile" />
+        <option value="&lt;c26d242e-9c41-43df-ad4a-1e3fa157e125&gt;/WWW/ITW/icons3rdIcons/script.js" />
+        <option value="&lt;c26d242e-9c41-43df-ad4a-1e3fa157e125&gt;/WWW/ITW/4.cviko.html" />
+        <option value="&lt;c26d242e-9c41-43df-ad4a-1e3fa157e125&gt;/WWW/ITW/style.css" />
+        <option value="&lt;c26d242e-9c41-43df-ad4a-1e3fa157e125&gt;/WWW/ITW/icons3rdIcons/style3.css" />
+        <option value="&lt;c26d242e-9c41-43df-ad4a-1e3fa157e125&gt;/WWW/ITW/index.html" />
+        <option value="&lt;c26d242e-9c41-43df-ad4a-1e3fa157e125&gt;/WWW/ITW/3cviko.html" />
+        <option value="&lt;c26d242e-9c41-43df-ad4a-1e3fa157e125&gt;/WWW/ITW/style3.css" />
+        <option value="$PROJECT_DIR$/src/Server.java" />
+        <option value="&lt;c26d242e-9c41-43df-ad4a-1e3fa157e125&gt;/WWW/IPK/Endpoint.java" />
+        <option value="&lt;c26d242e-9c41-43df-ad4a-1e3fa157e125&gt;/WWW/IPK/Server.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="67" />
+    <option name="y" value="25" />
+    <option name="width" value="1853" />
+    <option name="height" value="1055" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552742750483" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Server">
+    <configuration name="Server (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Server" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Server" />
+      <module name="1.projektJava" />
+      <option name="PROGRAM_PARAMETERS" value="port=1233" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Server (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e4af0bd7-3470-4c96-9b79-7a05baa6302f" name="Default Changelist" comment="" />
+      <created>1549468835585</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549468835585</updated>
+      <workItem from="1549468838129" duration="15560000" />
+      <workItem from="1549528570994" duration="1610000" />
+      <workItem from="1549549744354" duration="63000" />
+      <workItem from="1549619732514" duration="4370000" />
+      <workItem from="1549625488870" duration="10085000" />
+      <workItem from="1549645243925" duration="18661000" />
+      <workItem from="1549703752950" duration="38770000" />
+      <workItem from="1549788796244" duration="29492000" />
+      <workItem from="1549825349513" duration="605000" />
+      <workItem from="1549871205978" duration="79000" />
+      <workItem from="1549901854758" duration="4410000" />
+      <workItem from="1549955877043" duration="5603000" />
+      <workItem from="1549971207032" duration="2053000" />
+      <workItem from="1549982527776" duration="4152000" />
+      <workItem from="1550059807388" duration="2275000" />
+      <workItem from="1550074146010" duration="12259000" />
+      <workItem from="1550130993560" duration="643000" />
+      <workItem from="1550317853917" duration="469000" />
+      <workItem from="1550403816777" duration="1121000" />
+      <workItem from="1550492096168" duration="2650000" />
+      <workItem from="1550506086322" duration="9395000" />
+      <workItem from="1550520468365" duration="11318000" />
+      <workItem from="1550562435829" duration="229000" />
+      <workItem from="1550777070899" duration="2022000" />
+      <workItem from="1550929059386" duration="13844000" />
+      <workItem from="1550997899998" duration="13974000" />
+      <workItem from="1551087733503" duration="39000" />
+      <workItem from="1552664035741" duration="30000" />
+      <workItem from="1552730751117" duration="8224000" />
+      <workItem from="1552829829304" duration="154000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="215109000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.13337022" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Remote Host" order="7" visible="true" weight="0.17542888" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32937366" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.14794816" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39956802" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32937366" />
+      <window_info anchor="bottom" id="File Transfer" order="13" weight="0.32937366" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32982844" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.32982844" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.log" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/hostName.txt" />
+    <entry file="jar:///usr/lib/jvm/jdk-11.0.2/lib/src.zip!/jdk.jsobject/netscape/javascript/JSObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-999">
+          <caret line="55" column="22" selection-start-line="55" selection-start-column="22" selection-end-line="55" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/jdk-11.0.2/lib/src.zip!/java.base/java/io/FileInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="255" column="15" selection-start-line="255" selection-start-column="15" selection-end-line="255" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/jdk-11.0.2/lib/src.zip!/java.base/java/time/LocalTime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="1434" column="24" selection-start-line="1434" selection-start-column="24" selection-end-line="1434" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logFile.txt" />
+    <entry file="file://$PROJECT_DIR$/src/Logger.java" />
+    <entry file="jar:///usr/lib/jvm/jdk-11.0.2/lib/src.zip!/java.base/java/io/Writer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="247" column="16" selection-start-line="247" selection-start-column="16" selection-end-line="247" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/package.json" />
+    <entry file="file://$PROJECT_DIR$/java.net.SocketOutputStream@3eb4bd53" />
+    <entry file="jar:///usr/lib/jvm/jdk-11.0.2/lib/src.zip!/java.base/java/util/StringTokenizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="234" column="11" selection-start-line="234" selection-start-column="11" selection-end-line="234" selection-end-column="11" />
+          <folding>
+            <element signature="e#7881#7882#0" expanded="true" />
+            <element signature="e#7926#7927#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar:///usr/lib/jvm/jdk-11.0.2/lib/src.zip!/java.base/java/io/FileWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="53" column="13" selection-start-line="53" selection-start-column="13" selection-end-line="53" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/loadMethodWithParameter.html" />
+    <entry file="file://$PROJECT_DIR$/src/HttpClientHeader.java" />
+    <entry file="jar:///usr/lib/jvm/jdk-11.0.2/lib/src.zip!/java.base/java/util/Date.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="132" column="13" selection-start-line="132" selection-start-column="13" selection-end-line="132" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bash.sh" />
+    <entry file="file://$PROJECT_DIR$/1.projektJava.iml" />
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$PROJECT_DIR$/src/readme" />
+    <entry file="file://$PROJECT_DIR$/copyright" />
+    <entry file="file://$PROJECT_DIR$/logFile.log" />
+    <entry file="jar:///usr/lib/jvm/jdk-11.0.2/lib/src.zip!/java.logging/java/util/logging/Logger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="519">
+          <caret line="1023" column="16" selection-start-line="1023" selection-start-column="16" selection-end-line="1023" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logFile.log.0" />
+    <entry file="jar:///usr/lib/jvm/jdk-11.0.2/lib/src.zip!/java.base/java/net/ServerSocket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="58" column="6" selection-start-line="58" selection-start-column="6" selection-end-line="58" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/jdk-11.0.2/lib/src.zip!/java.base/java/io/PrintWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="819" column="16" selection-start-line="819" selection-start-column="16" selection-end-line="819" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/jdk-11.0.2/lib/src.zip!/java.base/java/io/BufferedOutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1445">
+          <caret line="110" column="29" selection-start-line="110" selection-start-column="29" selection-end-line="110" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/output.txt" />
+    <entry file="jar:///usr/lib/jvm/jdk-11.0.2/lib/src.zip!/java.base/java/io/BufferedWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="245" column="31" selection-start-line="245" selection-start-column="31" selection-end-line="245" selection-end-column="31" />
+          <folding>
+            <element signature="e#2094#2095#0" expanded="true" />
+            <element signature="e#2142#2143#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/jdk-11.0.2/lib/src.zip!/java.base/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12376">
+          <caret line="805" column="25" selection-start-line="805" selection-start-column="25" selection-end-line="805" selection-end-column="25" />
+          <folding>
+            <element signature="e#30159#30160#0" expanded="true" />
+            <element signature="e#30195#30196#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log.0.0" />
+    <entry file="file://$PROJECT_DIR$/output.txt" />
+    <entry file="jar:///usr/lib/jvm/jdk-11.0.2/lib/src.zip!/java.base/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="656" column="15" selection-start-line="656" selection-start-column="15" selection-end-line="656" selection-end-column="15" />
+          <folding>
+            <element signature="e#24535#24536#0" expanded="true" />
+            <element signature="e#24581#24582#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/jdk-11.0.2/lib/src.zip!/java.base/java/net/InetAddress.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="574">
+          <caret line="1245" column="30" selection-start-line="1245" selection-start-column="30" selection-end-line="1245" selection-end-column="30" />
+          <folding>
+            <element signature="e#20805#20806#0" expanded="true" />
+            <element signature="e#20845#20846#0" expanded="true" />
+            <element signature="e#26104#26105#0" expanded="true" />
+            <element signature="e#26132#26133#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyLogger.java" />
+    <entry file="file://$PROJECT_DIR$/Help.java" />
+    <entry file="file://$PROJECT_DIR$/ErrorTypes.java" />
+    <entry file="jar:///usr/lib/jvm/jdk-11.0.2/lib/src.zip!/java.base/java/lang/Long.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="49" column="55" selection-start-line="49" selection-start-column="55" selection-end-line="49" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ParseArgs.class" />
+    <entry file="file://$PROJECT_DIR$/news_icon.gif" />
+    <entry file="file://$PROJECT_DIR$/Makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log.0">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#731#732#0" expanded="true" />
+            <element signature="e#779#780#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ParseArgs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="69" selection-start-line="14" selection-start-column="69" selection-end-line="14" selection-end-column="69" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Endpoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="140" column="19" selection-start-line="140" selection-start-column="12" selection-end-line="140" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#4518#4519#0" expanded="true" />
+            <element signature="e#4581#4582#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CalculatorOfCPU.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="31" column="28" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/jdk-11.0.2/lib/src.zip!/java.base/java/net/Socket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="1306" column="16" selection-start-line="1306" selection-start-column="16" selection-end-line="1306" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>1.projektJava</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>gson-2.8.5</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

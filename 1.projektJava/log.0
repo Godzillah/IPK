@@ -1,0 +1,17 @@
+Mar 16, 2019 12:38:03 PM Server main
+INFO: Starting server on the port 1233
+Mar 16, 2019 12:40:10 PM Server main
+INFO: Starting server on the port 1233
+Mar 16, 2019 12:40:26 PM Server run
+INFO: Client from: 147.229.202.99 connected
+Mar 16, 2019 12:40:40 PM Server run
+INFO: Accept header:Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Mar 16, 2019 12:40:40 PM Server run
+INFO: METHOD |GET| USED WITH ENDPOINT:/load?refresh=1
+Mar 16, 2019 12:40:40 PM Server run
+INFO: File/load?refresh=1 of type text/plain returned
+Mar 16, 2019 12:40:40 PM Server run
+WARNING: IOException:/output.txt (No such file or directory)
+Mar 16, 2019 12:40:40 PM Server run
+INFO: Connection closed
+

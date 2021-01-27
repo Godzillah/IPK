@@ -1,0 +1,20 @@
+#AUTHOR : MAROS ORSAK (xorsak02)
+#BRIEF  : Súbor predovšetkým slúži, na prehľad zdrojov z ktorých som primárne čerpal
+
+#COPYRIGHT:
+
+    #BOOKS:
+        Restful Web Services
+        HTTP The Definitive Guide
+
+	#LINKS_TO_WEBSTITES:
+
+        https://tools.ietf.org/html/rfc7231
+        https://developer.mozilla.org/en-US/docs/Web/HTTP
+        https://stackoverflow.com/questions/23367857/accurate-calculation-of-cpu-usage-given-in-percentage-in-linux
+	https://medium.com/from-the-scratch/http-server-what-do-you-need-to-know-to-build-a-simple-http-server-from-scratch-d1ef8945e4fa
+	https://www.jmarshall.com/easy/http/
+	https://medium.com/@ssaurel/create-a-simple-http-web-server-in-java-3fc12b29d5fd
+	https://stackoverflow.com/questions/43209924/rest-api-use-the-accept-application-json-http-header
+	https://www.w3schools.com/tags/att_meta_http_equiv.asp?fbclid=IwAR1AfQRnY0nBTRn2Vfwzgw2BhEk4cvvmqRupSZ4I66bupVrCe6EK0YHn02
+	http://www.linuxhowtos.org/System/procstat.htm
